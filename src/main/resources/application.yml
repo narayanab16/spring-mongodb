@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "SpringBootMongoDB"
+server:
+  servlet:
+    context-path: /mongodb
+  port: 10000
